@@ -6,7 +6,9 @@ When someone asks me what my major was, I tell them “Symbolic Systems”. The 
 
 This tiny site is my attempt to answer that question. 
 
-Symbolic Systems is basically the study of many different fields and, equally importantly, how they intersect with each other. These fields span: computer science, psychology, philosophy, neuroscience, linguistics, and more. 
+There is an official site explanation of Symbolic Systems as a study that helps people who seek to understand “systems that are built with symbols, like natural language, programming, languages, and formal logic; and systems that work with symbols, such as minds and brains, computers, networks, and complex social systems.” 
+
+What that basically means is that we study many different fields and, equally importantly, how they intersect with each other. These fields span computer science, psychology, philosophy, neuroscience, linguistics, and more. 
 
 It’s like the pinnacle of the saying, “A jack of all trades is a master of none…but oftentimes better than a master of one!” 
 
@@ -14,7 +16,7 @@ My main intent is to share knowledge from this major so it is easily accessible 
 
 My second reason (which is much more selfish) is so that I can remember what I even learned in the first place! I graduated about a year ago and my studies spanned so many disciplines that it’s hard to keep track of what is what and how is where. 
 
-There’s also the official site’s explanation of Symbolic Systems as a study that helps people who seek to understand “systems that are built with symbols, like natural language, programming, languages, and formal logic; and systems that work with symbols, such as minds and brains, computers, networks, and complex social systems.” It’s intentionally super broad. 
+This site will probably resonate with you if you're the kind of person who likes exploring many things at once, in parallel :-) 
 
 With all of that said, hope you have fun navigating this site. It’s graph-based with nodes and edges, kind of like a brain. 
 
@@ -30,7 +32,7 @@ In reality, many of the courses span more than one discipline, but for now we’
 - [Probability](notes/prob)
 - [Philosophy](notes/phil)
 - [Psychology](notes/psych)
-- [Symbolic Systems Overview](notes/symsys)
+- [Overview](notes/symsys)
 
 I am actively filling out more courses over time with priority of adding content quickly rather than perfectly, and also welcome other contributors to this site! Here’s the [repo](https://github.com/belindamo/symsys). 
 

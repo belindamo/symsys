@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "10ea6f14f4c6dd42",
+        "id": "d937e5486dbe852c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/notes/cs/web.md",
-            "mode": "preview"
+            "file": "content/_index.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/notes/cs/web.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,11 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10ea6f14f4c6dd42",
+  "active": "d937e5486dbe852c",
   "lastOpenFiles": [
+    "content/_index.md",
     "content/notes/cs/web.md",
     "content/notes/cs.md",
-    "content/_index.md",
     "content/notes/psych.md",
     "content/notes/neuro.md",
     "content/notes/design.md",
